@@ -1,0 +1,9 @@
+name = "logistic"
+uuid = "88cfa16b-b2a5-43a8-84dd-c9f50cd72b4a"
+authors = ["nakano kanta <k.nakano.233@ms.saitama-u.ac.jp>"]
+version = "0.1.0"
+
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
